@@ -1,3 +1,8 @@
 from django.shortcuts import render
+from data import productos
 
-# Create your views here.
+def mostrar_productos(request):
+    contexto = {
+        'productos': productos
+    }
+    return render(request, 'catalogo/index.html', contexto)
