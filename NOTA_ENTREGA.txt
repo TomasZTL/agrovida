@@ -4,7 +4,7 @@ AGROVIDA SpA - NOTA DE ENTREGA DE PROYECTO DJANGO
 
 Estudiante / Autor: TomasZTL (tomas.zamorano06@inacapmail.cl)
 Perfil GitHub: https://github.com/TomasZTL
-Repositorio Remoto: https://github.com/TomasZTL/agrovida_sistema.git
+Repositorio Remoto: https://github.com/TomasZTL/agrovida.git
 
 ENTORNO Y APLICACIÓN:
 - Entorno virtual: agrovida_env
