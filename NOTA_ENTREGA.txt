@@ -2,12 +2,17 @@
 AGROVIDA SpA - NOTA DE ENTREGA DE PROYECTO DJANGO
 ========================================================================
 
-Entorno virtual: agrovida_env
-Proyecto Django: agrovida_sistema
-App Django: catalogo
-Vista: mostrar_productos
-Template: catalogo/templates/catalogo/index.html
-Ruta URL: '' (raíz del sitio)
+Estudiante / Autor: TomasZTL (tomas.zamorano06@inacapmail.cl)
+Perfil GitHub: https://github.com/TomasZTL
+Repositorio Remoto: https://github.com/TomasZTL/agrovida_sistema.git
+
+ENTORNO Y APLICACIÓN:
+- Entorno virtual: agrovida_env
+- Proyecto Django: agrovida_sistema
+- App Django: catalogo
+- Vista: mostrar_productos
+- Template: catalogo/templates/catalogo/index.html
+- Ruta URL: '' (raíz del sitio)
 
 HISTORIAL DE COMMITS GIT:
 - Commit 1: creación del proyecto Django agrovida_sistema
@@ -16,8 +21,5 @@ HISTORIAL DE COMMITS GIT:
 - Commit 4: creación de la función de vista en views.py, incluyendo la importación y el envío del objeto de datos como contexto
 - Commit 5: creación del template y visualización del contenido del objeto de datos en el navegador
 - style: decoración visual del HTML con apoyo de IA
-
-REPOSICION REMOTA (GitHub/GitLab):
-https://github.com/usuario/agrovida_sistema.git
 
 ========================================================================
